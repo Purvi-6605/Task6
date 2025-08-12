@@ -23,7 +23,6 @@ Loaded the dataset and normalized numerical features to improve model performanc
 
 2. Train the KNN Model:
 Implemented using KNeighborsClassifier from scikit-learn.
-
 Trained with default and tuned parameters.
 
 3. Experiment with Different K Values:
@@ -31,7 +30,6 @@ Tested multiple values of K to find the optimal neighbor count.
 
 4. Model Evaluation:
 Evaluated accuracy on test data.
-
 Generated a confusion matrix to check classification performance.
 
 5. Visualize Decision Boundaries:
