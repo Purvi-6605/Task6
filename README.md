@@ -39,19 +39,19 @@ Plotted decision regions to understand model behavior.
 
 **How to Run**
 
-Install required libraries: pandas, scikit-learn, matplotlib.
+1.Install required libraries: pandas, scikit-learn, matplotlib.
 
-Download the dataset from the provided link.
+2.Download the dataset from the provided link.
 
-Run the script or Jupyter notebook to train, test, and visualize results.
+3.Run the script or Jupyter notebook to train, test, and visualize results.
 
 **What I Learned**
 
-How KNN works by comparing feature similarity.
+1.How KNN works by comparing feature similarity.
 
-The effect of different K values on model accuracy.
+2.The effect of different K values on model accuracy.
 
-How normalization improves KNN performance.
+3.How normalization improves KNN performance.
 
 How to visualize and interpret decision boundaries.
 
